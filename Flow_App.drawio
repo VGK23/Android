@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AsIc4sM-tZZTkLltl2zV-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="-290" width="4500" height="1730" as="geometry" />
+        </mxCell>
         <mxCell id="AsIc4sM-tZZTkLltl2zV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsIc4sM-tZZTkLltl2zV-3" target="AsIc4sM-tZZTkLltl2zV-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -409,6 +412,9 @@
         </mxCell>
         <mxCell id="AsIc4sM-tZZTkLltl2zV-173" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2414ff;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-745" y="640" width="910" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="AsIc4sM-tZZTkLltl2zV-175" value="KHÁCH HÀNG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-1658.46" y="-180" width="198.46" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
